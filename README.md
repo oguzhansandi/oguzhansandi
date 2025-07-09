@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Sandı</h1>
 <h3 align="center">A passionate mobil developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **React Native**
-
-- 💬 Ask me about **react native**
+- 🔭 I’m currently working on **JAVA**
 
 - 📫 How to reach me **oguzhansandi@gmail.com**
 
