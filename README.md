@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Sandı</h1>
-<h3 align="center">A passionate mobil developer from Turkiye</h3>
+<h3 align="center">A passionate developer from Turkiye</h3>
 
 - 🔭 I’m currently working on **JAVA**
 
